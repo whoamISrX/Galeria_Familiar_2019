@@ -35,18 +35,19 @@ body{
 {
 	width: 45%;
 	margin-top:10px;
+	opacity: .7;
 }
 .imagen
 {
-	width: 100%;
-	border: 5px groove white;
-	opacity: .7;
+	width: 99%;
+	border: 2px groove white;
+	margin: auto;
 }
-.contenedor-imagen:hover
+.contenedor-imagen:active
 {
 	width: 100%;	
 }
-.imagen:hover
+/* .imagen:hover
 {
 	opacity: 1;
-}
+} */
